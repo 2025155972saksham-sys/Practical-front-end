@@ -1,4 +1,4 @@
-In Task 2, I created a webpage named task2.html to display an image along with a caption. 
-First, I added a heading titled “My Favorite Place” using the <h2> tag.
-Then, I inserted an image using the <img> tag and included an alt attribute, which provides a text description of the image if it fails to load or for visually impaired users.
-Below the image, I added a paragraph <p> describing why it is my favorite place.
+In this task, I created a basic login form using HTML and CSS.
+The HTML part contains a form with two labeled input fields: one for the username and another for the password using the type="password" attribute for security.
+A Login button is also included to complete the form structure.
+The CSS is used to improve the visual layout of the form. The form is centered on the webpage using Flexbox properties in the body
